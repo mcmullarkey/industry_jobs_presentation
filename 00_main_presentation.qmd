@@ -290,6 +290,8 @@ format:
 
 # For Technical
 
+# Practice
+
 # Can Ask Internal Recruiter
 
 # Show Thought Process
