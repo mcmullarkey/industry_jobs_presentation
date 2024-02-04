@@ -333,7 +333,7 @@ format:
 
 # Resources
 
-- [levels.fyi sslary transparency](https://www.levels.fyi/t){preview-link="true" style="text-align: center"}
+- [levels.fyi salary transparency](https://www.levels.fyi/t){preview-link="true" style="text-align: center"}
 - [Indeed negotiation tutorial](https://www.indeed.com/career-advice/pay-salary/how-to-negotiate-salary){preview-link="true" style="text-align: center"}
 
 # Summary
