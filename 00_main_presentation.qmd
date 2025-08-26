@@ -214,7 +214,7 @@ format:
 - [SQL Lemur 30 Day](https://datalemur.com/blog/learn-sql-in-30-days-roadmap){preview-link="true" style="text-align: center"}
 - [Data Science at the Command Line](https://jeroenjanssens.com/dsatcl/){preview-link="true" style="text-align: center"}
 - [Docker crash course](https://www.youtube.com/watch?v=pg19Z8LL06w){preview-link="true" style="text-align: center"}
-- [CS50x lectures](https://www.youtube.com/playlist?list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4){preview-link="true" style="text-align: center"}
+- [CS50x lectures](https://www.youtube.com/playlist?list=PLhQjrBD2T383q7Vn8QnTsVgSvyLpsqL_R){preview-link="true" style="text-align: center"}
 - [Pracical deep learning for coders](https://course.fast.ai/){preview-link="true" style="text-align: center"}
 
 # Portfolio
