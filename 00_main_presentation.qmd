@@ -14,6 +14,14 @@ format:
       boardmarker-width: 5
 ---
 
+# Need to Say
+
+# {background-image="images/phd_unemployment.png" background-size="contain" background-repeat="no-repeat"}
+
+# Feels Like We're All Screwed {background-image="images/phd_unemployment.png" background-size="contain" background-repeat="no-repeat" background-opacity="0.7"}
+
+# A map just in case
+
 # {background-image="images/blurred_linkedin.jpg" background-size="contain" background-repeat="no-repeat"}
 
 # Oh No {background-image="images/blurred_linkedin.jpg" background-size="contain" background-repeat="no-repeat" background-opacity="0.7"}
@@ -27,6 +35,8 @@ format:
 # I Had a Hard Time
 
 # I Had Serious Advantages
+
+# I Don't Have a Time Machine
 
 # My Path Isn't Replicable
 
@@ -43,18 +53,6 @@ format:
 # What's a Non-BS Version of This Post? {background-image="images/blurred_linkedin.jpg" background-size="contain" background-repeat="no-repeat" background-opacity="0.7"}
 
 # This Talk (Hopefully!)
-
-# Quick Note
-
-# The Posts Can Be Helpful
-
-# Concrete Info
-
-# Actionable
-
-# Not Directly Selling
-
-# {background-iframe="https://www.linkedin.com/embed/feed/update/urn:li:share:7124745189180538881" background-size="contain" background-repeat="no-repeat" background-interactive="true"}
 
 # Agenda
 
@@ -100,7 +98,6 @@ format:
 
 - [Job titles for social scientists ](https://hkotek.com/blog/altac-jobs-for-social-scientists/){preview-link="true" style="text-align: center"}
 - [Jobs to search for](https://www.linkedin.com/pulse/what-jobs-do-i-search-social-science-degree-anna-hartley/){preview-link="true" style="text-align: center"}
-- [AktAc jobs](https://twitter.com/AltacJobs){preview-link="true" style="text-align: center"}
 - [levels.fyi job board](https://www.levels.fyi/jobs?from=subnav){preview-link="true" style="text-align: center"}
 - [flexjobs job board](https://www.flexjobs.com/){preview-link="true" style="text-align: center"}
 
@@ -143,7 +140,7 @@ format:
 # Here's Mine
 
 ::: {style="text-align: center; margin-top: 1em"}
-[MY RESUME](https://docs.google.com/document/d/13eiP7DP97qG8SXcpLAXrdHC5PrjX_l9RGu5rb9g339M/edit?usp=sharing){preview-link="true" style="text-align: center"}
+[MY RESUME](https://mcmullarkey.github.io/assets/mcmullarkey_resume_website.pdf){preview-link="true" style="text-align: center"}
 :::
 
 # Resources
@@ -170,16 +167,13 @@ format:
 
 # LinkedIn
 
-# {background-iframe="https://www.linkedin.com/embed/feed/update/urn:li:share:7124745189180538881" background-size="contain" background-repeat="no-repeat" background-interactive="true"}
-
 # Start Small
 
 # Remember common interests
 
 # Resources
 
-- [AltAc chats](https://www.linkedin.com/company/altacchats/){preview-link="true" style="text-align: center"}
-- [R for data science Slack](https://rfordatasci.com/){preview-link="true" style="text-align: center"}
+- [Data Science Learning Community](https://dslc.io/){preview-link="true" style="text-align: center"}
 - [Approaching Significance Discord](https://discord.gg/9xkE2tnhnH){preview-link="true" style="text-align: center"}
 - [Nick Wan Twitch](https://www.twitch.tv/nickwan_datasci){preview-link="true" style="text-align: center"}
 
@@ -191,6 +185,8 @@ format:
 
 # Need More
 
+# Coding Especially
+
 # Data Science Specific
 
 # SQL
@@ -199,7 +195,9 @@ format:
 
 # Version Control
 
-# Software Engineering (Maybe?)
+# And Honestly
+
+# Software Engineering
 
 # How?
 
@@ -247,6 +245,10 @@ format:
 # Referrals
 
 # Networking Can Pay Off
+
+# Ideally before you need a job
+
+# They likely get $$$
 
 # Don't Go Too Hard
 
@@ -298,10 +300,13 @@ format:
 
 # Don't Have to Ace
 
+# Have gotten harder
+
 # Resources
 
 - [MIT STAR tutorial](https://capd.mit.edu/resources/the-star-method-for-behavioral-interviews/){preview-link="true" style="text-align: center"}
 - [Penn technical interview tutorial](https://careerdevelopment.princeton.edu/guides/interviews/technical-interview-preparation){preview-link="true" style="text-align: center"}
+- [Realistic Recruiter TikTok](https://www.tiktok.com/@realisticrecruiting?lang=en){preview-link="true" style="text-align: center"}
 
 # Negotiating
 
@@ -346,7 +351,7 @@ format:
 }
 ```
 
-## Even a dream job is still a job {.center}
+## A dream job is still a job {.center}
 
 ```{css}
 .center h2 {
@@ -377,9 +382,8 @@ format:
 
 ```{r}
 #| echo: false
+#| eval: false
 
-library(tidyverse)
-library(palmerpenguins)
-library(janitor)
+1+1
 
 ```
