@@ -20,6 +20,10 @@ format:
 
 # Feels Like We're All Screwed {background-image="images/phd_unemployment.png" background-size="contain" background-repeat="no-repeat" background-opacity="0.7"}
 
+# {background-image="images/tech_jobs_over_time.jpg" background-size="contain" background-repeat="no-repeat"}
+
+# It's not in your head {background-image="images/tech_jobs_over_time.jpg" background-size="contain" background-repeat="no-repeat" background-opacity="0.7"}
+
 # A map just in case
 
 # {background-image="images/blurred_linkedin.jpg" background-size="contain" background-repeat="no-repeat"}
@@ -157,9 +161,7 @@ format:
 
 # Slacks
 
-# Discord Servers?
-
-# Twitch Channels??
+# Discord Servers
 
 # Meetups
 
@@ -175,7 +177,7 @@ format:
 
 - [Data Science Learning Community](https://dslc.io/){preview-link="true" style="text-align: center"}
 - [Approaching Significance Discord](https://discord.gg/9xkE2tnhnH){preview-link="true" style="text-align: center"}
-- [Nick Wan Twitch](https://www.twitch.tv/nickwan_datasci){preview-link="true" style="text-align: center"}
+- [How to Network in a Non-slimy Way Blog Post](https://laderast.github.io/articles/2021-09-13-how-to-network-in-a-non-slimy-way/how-to-network-in-a-non-slimy-way.html){preview-link="true" style="text-align: center"}
 
 # Skills
 
@@ -290,6 +292,16 @@ format:
 
 # Resolution
 
+# SAIL Framework
+
+# Situation
+
+# Action
+
+# Impact
+
+# Learnings
+
 # For Technical
 
 # Practice
@@ -307,6 +319,7 @@ format:
 - [MIT STAR tutorial](https://capd.mit.edu/resources/the-star-method-for-behavioral-interviews/){preview-link="true" style="text-align: center"}
 - [Penn technical interview tutorial](https://careerdevelopment.princeton.edu/guides/interviews/technical-interview-preparation){preview-link="true" style="text-align: center"}
 - [Realistic Recruiter TikTok](https://www.tiktok.com/@realisticrecruiting?lang=en){preview-link="true" style="text-align: center"}
+- [Farah Sharghi TikTok](https://www.tiktok.com/@farahsharghi?_t=ZT-8zrpfYSVqPH&_r=1){preview-link="true" style="text-align: center"}
 
 # Negotiating
 
